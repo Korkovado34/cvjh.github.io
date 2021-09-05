@@ -1,0 +1,640 @@
+
+@media (min-width: 1168px)
+{
+	body
+	{
+		background-color:#ffffff;
+	}
+
+	html, body
+	{
+		margin:0;
+		padding:0;
+	}
+
+	.conteneur
+	{
+		width:1024px;
+		display:flex;
+		flex-direction:row;
+		margin:auto;
+
+	}
+
+	.presentation2
+	{
+		display:none;
+	}
+
+  .dates-mob{
+  display:none;
+  }
+
+
+
+
+  h1
+	{
+		font-family: 'Roboto medium', sans-serif;
+		font-size:2em;
+		color:#0d47a1;
+	}
+
+
+  h2
+	{
+		font-size:1.3em;
+		font-family:'Roboto medium', sans-serif;
+		color:#404040;
+	}
+
+
+  p
+	{
+		font-family:'Roboto', sans-serif;
+		font-size: 0.8em;
+		color:#404040;
+		text-align:justify;
+	}
+
+
+
+	.header
+	{
+		width:280px;
+		height:265px;
+		background-color: #0d47a1;
+		box-sizing:border-box;
+		padding-top:40px;
+		display:none;
+	}
+
+
+  .bloc-centrage
+	{
+		background-color:#0d47a1;
+		padding-top:40px;
+	}
+
+
+  .profil-svg
+	{
+		width:58%;
+		margin:auto;
+	}
+
+
+  .presentation
+	{
+		display:none;
+	}
+
+
+  .identite2
+	{
+		width:380px;
+		background-color:#ffffff;
+		display:flex;
+		margin-left:6%;
+		margin-top:70px;
+		word-spacing:2px;
+		line-height:30px;
+		float:left;
+	}
+
+
+  .prenom
+	{
+		font-family:'Roboto Mono', monospace;
+		font-size:1.4em;
+		font-weight:400;
+		display:inline-block;
+		vertical-align:2px;
+	}
+
+
+  .nom
+	{
+		font-family:'Roboto Mono', monospace;
+		font-size:1.4em;
+		font-weight:400;
+		color: #404040;
+		display:inline-block;
+	}
+
+
+  .int-web
+	{
+
+		font-size: 0.6em;
+		font-family:'Roboto Mono', monospace;
+		color: #404040;
+		font-weight:600;
+		line-height:0px;
+		display:inline;
+	}
+
+
+  .trait-dessous
+	{
+	  border-bottom-style: solid;
+		border-bottom-color: #0d47a1;
+		border-bottom-width: 3px;
+		font-family:'Roboto Mono', monospace;
+		font-size:0.6em;
+		font-weight:600;
+	  color:#404040;
+		text-transform:capitalize;
+	}
+
+
+  .presentation2
+	{
+		width:400px;
+		margin-top:80px;
+		margin-left:50px;
+		text-align:left;
+		line-height:30px;
+		background-color:#ffffff;
+	}
+
+
+  .contactez-moi
+	{
+		width:280px;
+		background-color: #0d47a1;
+	}
+
+
+  .bloc-coordonnees
+	{
+		width:280px;
+		display:flex;
+		margin:auto;
+	}
+
+
+  .icone-telephone
+	{
+		width:26px;
+		height:22px;
+		margin-top:20px;
+		margin-right:8px;
+		display:inline-block;
+	}
+
+
+  .num-de-tel
+	{
+		font-family:'Roboto Mono', monospace;
+		color:#ffffff;
+		letter-spacing:2.1px;
+		font-size:0.9em;
+		display:inline-block;
+		vertical-align:5px;
+	}
+
+
+  .icone-envelope
+	{
+		width:26px;
+		height:22px;
+		margin-top:10px;
+		margin-right:8px;
+		display:inline-block;
+		vertical-align:0px;
+	}
+
+
+  .email-de-james
+	{
+		margin-top:8px;
+		font-family:'Roboto Mono', monospace;
+		color:#FFFFFF;
+		font-size:0.7em;
+		display:inline-block;
+		vertical-align:12px;
+	}
+
+
+  .bdgrise
+	{
+		width:100%;
+		background-color:#404040;
+		text-align: center;
+		font-family:'Roboto Mono', monospace;
+		font-size:1.2em;
+		color: #ffffff;
+		padding-top:2px;
+		padding-bottom:2px;
+	}
+
+
+  .qui-suis-je
+	{
+		box-sizing:border-box;
+		background-color:#0d47a1;
+	  flex-grow:2;
+	}
+
+
+  .aproposdemoi
+	{
+		width:280px;
+		box-sizing:border-box;
+		background-color:#0d47a1;
+		padding-top:10px;
+		padding-left:14px;
+		padding-right:14px;
+		font-family:'Roboto', sans-serif;
+		font-size: 0.8em;
+		color:#FFFFFF;
+		text-align:justify;
+	}
+
+
+  .mes-loisirs
+	{
+		width:280px;
+		background-color:#0d47a1;
+		box-sizing:border-box;
+	}
+
+
+  .dessin
+	{
+		width:14%;
+		margin-left:8%;
+		margin-right:10%;
+		margin-top:30px;
+		padding-bottom:40px;
+		display:inline;
+	}
+
+
+  .electronique
+	{
+		width:14%;
+		margin-left:8%;
+		margin-right:10%;
+		margin-top:30px;
+		padding-bottom:40px;
+		display:inline;
+	}
+
+
+  .voyage
+	{
+		width:14%;
+		margin-left:8%;
+		margin-right:10%;
+		margin-top:30px;
+		padding-bottom:40px;
+		display:inline;
+	}
+
+
+  #colgauche
+	{
+		width:280px;
+		display:flex;
+		flex-direction:column;
+	}
+
+
+  #coldroite
+	{
+		width:60%;
+		display:flex;
+		flex-direction:column;
+	}
+
+
+  .conteneur-cv
+	{
+		width:100%;
+		display:flex;
+		flex-direction: row;
+		margin-left:6%;
+	}
+
+
+  .boxform-gauche
+	{
+		width:30%;
+		display:flex;
+		flex-direction:column;
+		margin-top:0px;
+		margin-bottom:0px;
+	}
+
+
+  .boxform-droite
+	{
+		width:80%;
+		display:flex;
+		flex-direction:column;
+		margin-bottom:0px;
+	}
+
+
+  .boxexper-gauche
+	{
+		width:30%;
+		display:flex;
+		flex-direction:column;
+	}
+
+
+  .boxexper-droite
+	{
+		width:80%;
+		display:flex;
+		flex-direction:column;
+		margin-top:0px;
+	}
+
+
+  .dates
+	{
+		width:80%;
+		font-family:'Roboto', sans-serif;
+		font-size:0.7em;
+		font-weight:500;
+		color:#404040;
+		margin-top:20px;
+		margin-left:8px;
+		display:flex;
+	}
+
+
+  .dates2
+	{
+		display:none;
+	}
+
+
+  .ecoles
+	{
+		display:flex;
+		flex-wrap:wrap;
+		margin-top:20px;
+		font-weight:500;
+		float:left;
+	}
+
+
+  .formation
+	{
+		display:flex;
+		float:left;
+		margin-top:0px;
+	}
+
+
+  .texte
+	{
+		display:flex;
+		flex-wrap:wrap;
+		float:left;
+	}
+
+
+  .mes-formations
+	{
+		width:100%;
+		padding-top:24px;
+		padding-bottom:14px;
+		display:flex;
+		flex-direction:column;
+		float:left;
+	}
+
+
+  .formbloctitre
+	{
+		width:100%;
+		margin-top:80px;
+		float:left;
+		margin-left:6%;
+		margin-bottom:10px;
+		text-align:left;
+		font-family:'Roboto Medium 500', monospace;
+		font-size:1.2em;
+		font-weight:500;
+		border-bottom-style: solid;
+		border-bottom-color: #0d47a1;
+		border-bottom-width: 3px;
+	}
+
+
+  .experiences-pros
+	{
+		width:100%;
+		margin-top:0px;
+		box-sizing:border-box;
+		display:flex;
+		flex-direction:column;
+		float:left;
+	}
+
+
+  .workbloctitre
+	{
+		width:100%;
+		text-align:left;
+		font-family:'Roboto Medium', monospace;
+		font-size:1.2em;
+		font-weight:500;
+		float:left;
+		margin-left:6%;
+		margin-bottom:10px;
+		border-bottom-style: solid;
+		border-bottom-color: #0d47a1;
+		border-bottom-width: 3px;
+	}
+
+
+  .icone-du-cv
+	{
+		width:26px;
+		height:26px;
+		margin-right:60px;
+		margin-top:50px;
+		display:inline-block;
+		vertical-align:baseline;
+	}
+
+
+  .colonne-icone
+	{
+		display:flex;
+		padding-top:17px;
+		float:left;
+	}
+
+
+  .fas fa-circle
+	{
+		font-size:0.4px;
+		color:#0d47a1;
+	}
+
+
+  .far fa-times-circle
+	{
+		font-size:0.4em;
+		color:#0d47a1;
+	}
+
+
+  .w3c
+	{
+		margin-left:50px;
+	}
+
+
+  .textitre
+	{
+		display:inline-block;
+		font-family:'Roboto medium', monospace;
+		font-size:1.2em;
+		font-weight:600;
+		color:#404040;
+		margin-bottom:6px;
+		margin-top:8px;
+	}
+
+
+  .bloc-facebook-linkedin
+	{
+		width:280px;
+		display:block;
+		background-color:#0d47a1;
+	}
+
+
+  .icone-linkedin
+	{
+		width:30px;
+		height:28px;
+		margin-left:50px;
+		margin-right:60px;
+		display:inline-block;
+		background-repeat:no-repeat;
+		background-position:center center;
+	}
+
+
+  .icone-facebook
+	{
+		width:30px;
+		height:28px;
+		margin-left:50px;
+		display:inline-block;
+		background-repeat:no-repeat;
+		background-position:center center;
+	}
+
+
+  .icone-linkedin
+	{
+		background-image: url('../images/linkedin.svg');
+	}
+
+	.icone-linkedin:hover
+	{
+		background-image: url('../images/linkedin_survol.svg');
+	}
+
+	.icone-facebook
+	{
+		background-image: url('../images/facebook.svg');
+	}
+
+	.icone-facebook:hover
+	{
+		background-image: url('../images/facebook_survol.svg');
+	}
+
+
+  .conteneur-footer
+	{
+		display:flex;
+		width:100%;
+		margin-top:6px;
+		margin-left:0px;
+	}
+
+
+  .box-footer-gauche
+	{
+		width:50%;
+		display:flex;
+		flex-direction:column;
+		text-align:left;
+		font-weight:400;
+		line-height:20px;
+		margin-left:32px;
+	}
+
+
+  .titre_footer
+	{
+		font-family:'Roboto medium', monospace;
+		color:#404040;
+		font-size:1.1em;
+	}
+
+
+  .box-footer-droite
+	{
+		width:50%;
+		display:flex;
+		flex-direction:column;
+		text-align:left;
+		font-weight:400;
+		line-height:20px;
+		margin-left:32px;
+	}
+
+
+  .titre_footer1
+	{
+		font-family:'Roboto medium', monospace;
+		color:#404040;
+		font-size:0.9em;
+		font-weight:600;
+	}
+
+
+  .titre_footer2
+	{
+		font-family:'Roboto medium', monospace;
+		color:#404040;
+		font-size:0.8em;
+		font-weight:500;
+	}
+
+
+.far fa-times-circle
+{
+font-size:0.8em;
+color:#0d47a1;
+}
+
+
+.fas fa-circle
+{
+font-size:0.7em;
+color:#0d47a1;
+}
+
+
+  .box-icone
+	{
+		display:flex;
+		flex-direction:column;
+		float:left;
+	}
+}

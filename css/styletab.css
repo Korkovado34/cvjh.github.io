@@ -1,0 +1,311 @@
+@media (min-width: 600px)
+{
+
+	.presentation2
+	{
+		display:none;
+	}
+
+
+	.dates
+	{
+		display:none;
+	}
+
+
+	.colonne-icone
+	{
+	display:none;
+	}
+
+
+
+
+
+	h1
+	{
+		font-size:1.4em;
+		font-family: 'Roboto medium', sans-serif;
+		color:#404040;
+		font-size:1em;
+	}
+
+
+	h2
+	{
+		font-size:1em;
+		font-family: 'Roboto medium', sans-serif;
+		color:#404040;
+	}
+
+
+	p
+	{
+		font-family:'Roboto', sans-serif;
+		font-size: 0.7em;
+		color:#404040;
+		width:100%;
+		text-align:justify;
+	}
+
+
+	.profil-svg
+	{
+		width:30%;
+		margin-top:50px;
+		margin:auto;
+	}
+
+
+
+
+	.presentation
+	{
+		width:300px;
+		box-sizing:border-box;
+		text-align:left;
+		line-height:16px;
+		margin:auto;
+
+	}
+
+
+
+	.prenom
+	{
+		font-family:'Roboto Mono', monospace;
+		font-size:1em;
+		font-weight:500;
+		display:inline-block;
+		vertical-align:2px;
+	}
+
+
+
+
+
+	.nom
+	{
+		font-family:'Roboto Mono', monospace;
+		font-size:1em;
+		font-weight:500;
+		color: #404040;
+		display:inline-block;
+		vertical-align:2px;
+	}
+
+
+	.int-web
+	{
+
+		font-size: 0.8em;
+		font-family:'Roboto Mono', monospace;
+		color: #404040;
+		font-weight:500;
+		line-height:0px;
+		display:inline-block;
+		margin-left:0px;
+	}
+
+
+	.trait-dessous
+	{
+		border-bottom-style: solid;
+		border-bottom-color: #0d47a1;
+		border-bottom-width: 3px;
+		font-family:'Roboto Mono', monospace;
+		font-size:1.4em;
+		font-weight:500;
+		color:#404040;
+		margin-right:0px;
+		text-transform:capitalize;
+	}
+
+
+
+
+
+
+
+
+
+	.bloc-coordonnes
+	{
+		width:260px;
+		display:block;
+		padding-bottom:50px;
+		margin:auto;
+	}
+
+
+	.icone-telephone
+	{
+		width:32px;
+		height:24px;
+		margin-top:20px;
+		margin-right:8px;
+		display:inline-block;
+	}
+
+
+	.num-de-tel
+	{
+		font-family:'Roboto Mono', monospace;
+		color:#ffffff;
+		letter-spacing:5px;
+		font-size:1.1em;
+		display:inline-block;
+		vertical-align:10px;
+	}
+
+
+	.icone-envelope
+	{
+		width:32px;
+		height:24px;
+		margin-top:10px;
+		margin-right:8px;
+		display:inline-block;
+	}
+
+
+	.email-de-james
+	{
+		margin-top:8px;
+		font-family:'Roboto Mono', monospace;
+		color:#FFFFFF;
+		font-size:1em;
+		vertical-align:18px;
+		display:inline-block;
+		vertical-align:10px;
+	}
+
+
+	.bdgrise
+	{
+		width:100%;
+		background-color:#404040;
+		text-align: center;
+		font-family:'Roboto Mono', monospace;
+		font-size:1.4em;
+		color: #ffffff;
+		padding-top:2px;
+		padding-bottom:2px;
+		margin-bottom:30px;
+	}
+
+
+	.qui-suis-je
+	{
+		width:100%;
+		background-color:#0d47a1;
+		padding-bottom:50px;
+		box-sizing:border-box;
+	}
+
+
+	.aproposdemoi
+	{
+		width:100%;
+		box-sizing:border-box;
+		background-color:#0d47a1;
+		padding-top:20px;
+		padding-left:14px;
+		padding-right:14px;
+		padding-bottom:40px;
+		font-family:'Roboto', sans-serif;
+		font-size: 0.9em;
+		color:#FFFFFF;
+		text-align:justify;
+	}
+
+
+	.dates
+	{
+		font-family:'Roboto', sans-serif;
+		font-size:0.8em;
+		color:#404040;
+		margin-right:50px;
+		display:inline-block;
+		vertical-align:119px;
+		display:none;
+	}
+
+
+	.dates2
+	{
+		font-family:'Roboto', sans-serif;
+		font-size:0.7em;
+		color:#404040;
+		margin-right:50px;
+		display:inline-block;
+	}
+
+
+	.presentation
+	{
+		width:260px;
+		text-align:left;
+		line-height:24px;
+		margin:auto;
+	}
+
+
+	.prenom
+	{
+		font-family:'Roboto Mono', monospace;
+		font-size:1.8em;
+		color: #0d47a1;
+		margin-right:8px;
+		margin-bottom:1px;
+		display:inline-block;
+	}
+
+
+	.nom
+	{
+		font-family:'Roboto Mono', monospace;
+		font-size:1.8em;
+		color: #404040;
+		margin-top:8px;
+		margin-bottom:1px;
+		display:inline-block;
+	}
+
+
+	.int-web
+	{
+		font-size: 1.4em;
+		font-family:'Roboto Mono', monospace;
+		color: #404040;
+		margin-top:0px;
+		display:inline-block;
+	}
+
+
+	.icone-du-cv
+	{
+		width:24px;
+		height:24px;
+		margin-right:40px;
+		display:inline;
+	}
+
+
+	.titre_footer1
+	{
+		font-family:'Roboto medium', monospace;
+		color:#404040;
+		font-size:0.7em;
+		font-weight:800;
+	}
+
+
+	.titre_footer2
+	{
+		font-family:'Roboto medium', monospace;
+		color:#404040;
+		font-size:0.6em;
+		font-weight:600;
+	}
+}
